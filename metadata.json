@@ -1,0 +1,6 @@
+{
+  "name": "Pokémon: Verde Alloro",
+  "description": "Minigioco RPG 2D in pixel art stile Pokémon GBA per celebrare la laurea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
